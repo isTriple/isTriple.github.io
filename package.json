@@ -1,0 +1,32 @@
+{
+  "name": "triple",
+  "version": "0.0.0",
+  "description": "triple est service de livraison à domicile",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "body-parser - Copie": "^1.18.2",
+    "cookie-session": "^2.0.0-beta.3",
+    "electron": "^1.8.4",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "jquery": "^3.3.1",
+    "mysql": "^2.15.0",
+    "node-wifi": "^2.0.2",
+    "passport": "^0.4.0",
+    "socket.io": "^2.0.4",
+    "web-request": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "livraison",
+    "api",
+    "service",
+    "domicile"
+  ],
+  "author": "Triple",
+  "license": "MIT"
+}
